@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|c:\\users\\user\\documents\\github\\patikabootcampprojects\\week11\\galactictouragency\\galactictouragency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|solutionrelative:galactictouragency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|c:\\users\\user\\documents\\github\\patikabootcampprojects\\week11\\galactictouragency\\galactictouragency\\models\\searchcriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|solutionrelative:galactictouragency\\models\\searchcriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|c:\\users\\user\\documents\\github\\patikabootcampprojects\\week11\\galactictouragency\\galactictouragency\\models\\galactictourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|solutionrelative:galactictouragency\\models\\galactictourpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|c:\\users\\user\\documents\\github\\patikabootcampprojects\\week11\\galactictouragency\\galactictouragency\\models\\galactictour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|solutionrelative:galactictouragency\\models\\galactictour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|c:\\users\\user\\documents\\github\\patikabootcampprojects\\week11\\galactictouragency\\galactictouragency\\models\\galacticproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|solutionrelative:galactictouragency\\models\\galacticproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|c:\\users\\user\\documents\\github\\patikabootcampprojects\\week11\\galactictouragency\\galactictouragency\\models\\galacticcordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|solutionrelative:galactictouragency\\models\\galacticcordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|c:\\users\\user\\documents\\github\\patikabootcampprojects\\week11\\galactictouragency\\galactictouragency\\modelbindings\\galacticcordinatebinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|solutionrelative:galactictouragency\\modelbindings\\galacticcordinatebinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|c:\\users\\user\\documents\\github\\patikabootcampprojects\\week11\\galactictouragency\\galactictouragency\\controllers\\galactictourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|solutionrelative:galactictouragency\\controllers\\galactictourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|c:\\users\\user\\documents\\github\\patikabootcampprojects\\week11\\galactictouragency\\galactictouragency\\controllers\\galacticproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|solutionrelative:galactictouragency\\controllers\\galacticproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|c:\\users\\user\\documents\\github\\patikabootcampprojects\\week11\\galactictouragency\\galactictouragency\\attributes\\galacticelementcompositionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16513B5D-784D-46D3-AEA9-5980B5EBB01A}|GalacticTourAgency\\GalacticTourAgency.csproj|solutionrelative:galactictouragency\\attributes\\galacticelementcompositionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Program.cs",
+              "RelativeDocumentMoniker": "GalacticTourAgency\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Program.cs",
+              "RelativeToolTip": "GalacticTourAgency\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:02:47.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GalacticTour.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Models\\GalacticTour.cs",
+              "RelativeDocumentMoniker": "GalacticTourAgency\\Models\\GalacticTour.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Models\\GalacticTour.cs",
+              "RelativeToolTip": "GalacticTourAgency\\Models\\GalacticTour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T00:42:04.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GalacticTourPackage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Models\\GalacticTourPackage.cs",
+              "RelativeDocumentMoniker": "GalacticTourAgency\\Models\\GalacticTourPackage.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Models\\GalacticTourPackage.cs",
+              "RelativeToolTip": "GalacticTourAgency\\Models\\GalacticTourPackage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T01:14:00.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchCriteria.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Models\\SearchCriteria.cs",
+              "RelativeDocumentMoniker": "GalacticTourAgency\\Models\\SearchCriteria.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Models\\SearchCriteria.cs",
+              "RelativeToolTip": "GalacticTourAgency\\Models\\SearchCriteria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:30:02.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GalacticProduct.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Models\\GalacticProduct.cs",
+              "RelativeDocumentMoniker": "GalacticTourAgency\\Models\\GalacticProduct.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Models\\GalacticProduct.cs",
+              "RelativeToolTip": "GalacticTourAgency\\Models\\GalacticProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:50:35.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GalacticCordinate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Models\\GalacticCordinate.cs",
+              "RelativeDocumentMoniker": "GalacticTourAgency\\Models\\GalacticCordinate.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Models\\GalacticCordinate.cs",
+              "RelativeToolTip": "GalacticTourAgency\\Models\\GalacticCordinate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:38:03.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GalacticCordinateBinder.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\ModelBindings\\GalacticCordinateBinder.cs",
+              "RelativeDocumentMoniker": "GalacticTourAgency\\ModelBindings\\GalacticCordinateBinder.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\ModelBindings\\GalacticCordinateBinder.cs",
+              "RelativeToolTip": "GalacticTourAgency\\ModelBindings\\GalacticCordinateBinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:40:31.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GalacticToursController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Controllers\\GalacticToursController.cs",
+              "RelativeDocumentMoniker": "GalacticTourAgency\\Controllers\\GalacticToursController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Controllers\\GalacticToursController.cs",
+              "RelativeToolTip": "GalacticTourAgency\\Controllers\\GalacticToursController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAADwv5EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T00:44:39.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GalacticProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Controllers\\GalacticProductsController.cs",
+              "RelativeDocumentMoniker": "GalacticTourAgency\\Controllers\\GalacticProductsController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Controllers\\GalacticProductsController.cs",
+              "RelativeToolTip": "GalacticTourAgency\\Controllers\\GalacticProductsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:01:00.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GalacticElementCompositionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Attributes\\GalacticElementCompositionAttribute.cs",
+              "RelativeDocumentMoniker": "GalacticTourAgency\\Attributes\\GalacticElementCompositionAttribute.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PatikaBootcampProjects\\Week11\\GalacticTourAgency\\GalacticTourAgency\\Attributes\\GalacticElementCompositionAttribute.cs",
+              "RelativeToolTip": "GalacticTourAgency\\Attributes\\GalacticElementCompositionAttribute.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:17:01.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
